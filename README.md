@@ -108,6 +108,7 @@ The ANPR model is trained to detect two classes:
 - `plate`: Full plate area
 
 ## Dataset
+Dataset Link:-https://drive.google.com/drive/folders/1Z4jXQmKUpUbWXaHUAHbW4oFYaId_pgFG?usp=sharing
 
 The dataset used for training is organized as follows:
 - `Dataset/train/`: Training data
@@ -125,5 +126,6 @@ The model achieves fast inference times suitable for real-time applications:
 - On CPU: 1-5 FPS depending on the hardware
 
 ## License
+
 
 This project uses the data under CC BY 4.0 license. 
